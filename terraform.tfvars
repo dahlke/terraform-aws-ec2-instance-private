@@ -1,0 +1,6 @@
+aws_region = "us-west-2"
+aws_instance_type = "t2.small"
+tag_instance_name = "Demo Instance"
+tag_app_name = "Demo App"
+tag_department = "Solutions Engineering"
+num_instances = "1"
